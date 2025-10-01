@@ -1,0 +1,127 @@
+{
+  "capture_timestamp": "20250930_222331", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_001.txt", 
+      "url": "https://www.mexjoy.net:443/wps/agent/affiliate?domain=mexjoy&code=www", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_001.txt", 
+      "timestamp": 1759281795780
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_002.txt", 
+      "url": "https://www.mexjoy.net:443/wps/session/key/rsa?t=1759281808761", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_002.txt", 
+      "timestamp": 1759281809199
+    }, 
+    {
+      "method": "PUT", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_003.txt", 
+      "url": "https://www.mexjoy.net:443/wps/member/register", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_003.txt", 
+      "timestamp": 1759281809679
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_004.txt", 
+      "url": "https://www.mexjoy.net:443/wps/member/info?", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_004.txt", 
+      "timestamp": 1759281810095
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_005.txt", 
+      "url": "https://www.mexjoy.net:443/wps/relay/CSP_ImUrl", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_005.txt", 
+      "timestamp": 1759281810492
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_006.txt", 
+      "url": "https://www.mexjoy.net:443/wps/relay/GCSGAME_getVendorEvent?_=1759281809947", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_006.txt", 
+      "timestamp": 1759281810551
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_007.txt", 
+      "url": "https://www.mexjoy.net:443/wps/relay/MCSFE_getPlayerAvatar?", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_007.txt", 
+      "timestamp": 1759281810712
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_008.txt", 
+      "url": "https://www.mexjoy.net:443/wps/relay/CSP_unreadCount?", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_008.txt", 
+      "timestamp": 1759281810721
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_009.txt", 
+      "url": "https://www.mexjoy.net:443/wps/member/info/funds/consolidated?", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_009.txt", 
+      "timestamp": 1759281810726
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_010.txt", 
+      "url": "https://www.mexjoy.net:443/wps/v2/wallets/balance?", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_010.txt", 
+      "timestamp": 1759281810731
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_011.txt", 
+      "url": "https://www.mexjoy.net:443/wps/relay/MCSFE_getPlayerRankProgress?", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_011.txt", 
+      "timestamp": 1759281810735
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_012.txt", 
+      "url": "https://www.mexjoy.net:443/wps/relay/MCSFE_getFavoriteGames?", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_012.txt", 
+      "timestamp": 1759281810739
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_013.txt", 
+      "url": "https://www.mexjoy.net:443/wps/relay/PROMOFE_getPromoCodeEnable?_=1759281810567", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_013.txt", 
+      "timestamp": 1759281810953
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_014.txt", 
+      "url": "https://www.mexjoy.net:443/wps/relay/MCSFE_getAvailablePromotions?_=1759281810567", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_014.txt", 
+      "timestamp": 1759281810970
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/request_015.txt", 
+      "url": "https://www.mexjoy.net:443/wps/relay//PROMOFE_getPromoCodeEnable?", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/www.mexjoy.net_20250930_222331/response_015.txt", 
+      "timestamp": 1759281811142
+    }
+  ], 
+  "host": "www.mexjoy.net", 
+  "total_requests": 15
+}
