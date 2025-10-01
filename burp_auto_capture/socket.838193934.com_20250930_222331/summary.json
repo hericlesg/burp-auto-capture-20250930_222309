@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250930_222331", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/socket.838193934.com_20250930_222331/request_001.txt", 
+      "url": "https://socket.838193934.com:443/rtmsg/info?t=1759281810502", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/socket.838193934.com_20250930_222331/response_001.txt", 
+      "timestamp": 1759281811416
+    }
+  ], 
+  "host": "socket.838193934.com", 
+  "total_requests": 1
+}
